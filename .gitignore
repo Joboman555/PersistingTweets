@@ -42,8 +42,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Private Twitter API Key and Secret
-TwitterAPICredentials.json
+# Local storage files
+*.json
+*.db
 
 # Compiled Twitter Code
 *.pyc
